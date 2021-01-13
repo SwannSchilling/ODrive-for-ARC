@@ -1,5 +1,8 @@
-python3.8 -m pip --no-cache install odrive
 python3.8 -m pip install odrive
+
+#if you had trouble installing ODrive using pip
+#you can try to disable cache
+#python3.8 -m pip --no-cache install odrive
 
 #when you have trouble finding you files
 #also install locate....locate update db
