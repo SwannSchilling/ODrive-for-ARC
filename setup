@@ -6,8 +6,7 @@ python3.8 -m pip install odrive
 
 #when you have trouble finding you files
 #also install locate....locate update db
-
-/home/pi/.local/bin/odrivetool
+#/home/pi/.local/bin/odrivetool
 
 #setup for my tarot 4108
 
