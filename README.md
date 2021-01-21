@@ -1,6 +1,9 @@
 # ODrive-for-ARC
 ODrive for ARC running on Arduino Uno
 
+#THIS SETUP WILL ONLY WORK WHEN RUNNING
+#ODRIVE FIRMWARE v0.4.12
+
 This is the setup for my Tarot 6S 4108 KV:380 BLDC motor to be used like any other servo in ARC...
 
 It is just MY PERSONAL setup and meant to get you started, please READ THE manual over at the official Odrive website!
