@@ -1,5 +1,9 @@
 #include <Servo.h>
 //#include "SendOnlySoftwareSerial.h"
+//------------------------------------------------------------------
+
+//This script only works with the ODrive
+//runnning firmware v0.4.12
 
 //------------------------------------------------------------------
 #include <SoftwareSerial.h>
