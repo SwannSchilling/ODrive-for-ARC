@@ -28,4 +28,4 @@ All non-power I/O is 3.3V output and 5V tolerant on input, on ODrive v3.3 and ne
 
 This tutorial is just meant to be a starting point, please mess around with my settings and share your experience, so we will get a better understanding on how this whole setup can be utilized!!:)
 
-![alt text](https://github.com/SwannSchilling/ItsyBitsy_M4_Oled_Eyes/blob/main/OledsAndBuzzer.JPG)
+![alt text](https://github.com/SwannSchilling/ODrive-for-ARC/blob/main/ODrive.png)
